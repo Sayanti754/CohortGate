@@ -1,5 +1,14 @@
 # 🚀 Cohort-Onboarding | Open Source Contribution Guide  
 
+## Table of Contents
+- [About the Project - CohortGate](#about-the-project---cohortgate)
+- [Tech Stack](#tech-stack)
+- [Features to Implement](#features-to-implement)
+- [How to Contribute](#how-to-contribute)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+- [Need Help?](#need-help)
+
 ## 🎯 About the Project - CohortGate 
 Welcome to **CohortGate**, a React.js web application designed to **streamline the onboarding process for companies** participating in **Cohort**.
 
